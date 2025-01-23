@@ -17,4 +17,5 @@
 - Oreste Bernardi (Infineon)
 - Tiago Manczak
 - Koppany Pazman (HighTec)
+- Cristiana Andrei (Wyliodrin)
 - Alexandru Radovici (Moderator)
